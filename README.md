@@ -14,8 +14,9 @@ One repository that I highly recommend for decompilers, or reverse engineering g
 Type Name | Description
 ---- | ----
 **Framework Modding** | *Basically it is modifying games in a dynamic way, adding new assets in the game, adding new dynamics or new files that compromise the compiled script of the game. Ex: Adding a shooting dynamic in Driver 2.*
-**Archive Modding** | *It is modification and replacement only of files that already exist in the game, such as images, texts, animations, etc.*
+**Archive Modding** | *It is modification and replacement only of files that already exist in the game, such as images, texts, animations, etc. This form can be sorted generically (all games) using easy tools or by modifying files where the game didn't compile.*
 **Unique Modding** | *They are the use of specific tools for modifying just one game, it can be big (add new mechanics) or small (just change images, texts...).*
+**Engine Modding** | ...
 
 
 
