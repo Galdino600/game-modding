@@ -7,4 +7,8 @@ Welcome to the most comprehensive, single game modding list, without the bullshi
 
 One repository that I highly recommend for decompilers, or reverse engineering games, is [Game Hacking Resource](https://github.com/dsasmblr/game-hacking/blob/master/README.md).
 
+### Theory Of The Game Modding
+
+
+
 *Being implemented...*
