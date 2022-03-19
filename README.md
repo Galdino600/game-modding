@@ -14,6 +14,7 @@ One repository that I highly recommend for decompilers, or reverse engineering g
 Type Name | Description
 ---- | ----
 **Framework Modding** | *Basically it is modifying games in a dynamic way, adding new assets in the game, adding new dynamics or new files that compromise the compiled script of the game.*
+**Archive Modding** | *It is modification and replacement only of files that already exist in the game, such as images, texts, animations, etc.*
 
 
 
