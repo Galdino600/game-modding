@@ -23,7 +23,7 @@ Type Name | Description
 Site Name | Link | Description
 ---- | ---- | ----
 **ModDb** | [ModDb](https://www.moddb.com/) | *One of the most classic and oldest Game Modding sites. Despite being very complete, I don't recommend it very much because it's a site that only uses the official methods of each game for modification.*
-**Nexus Mods** | [Nexus Mods](https://www.nexusmods.com/) | ...
+**Nexus Mods** | [Nexus Mods](https://www.nexusmods.com/) | *One of the best sites for Game Modding, although most of the site uses official methods to modify each game, there is a small part that actually practices Game Modding without official methods and using third party programs.*
 
 
 
